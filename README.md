@@ -2,6 +2,14 @@
 
 > **The free, open-source alternative to Higgsfield AI.** Generate AI images and videos using 200+ state-of-the-art models — without the closed ecosystem or subscription fees.
 
+## 🌐 Try it Online — No Install Required
+
+**Hosted version:** [muapi.ai/open-higgsfield-ai](https://muapi.ai/open-higgsfield-ai)
+
+Use all four studios (Image, Video, Lip Sync, Cinema) directly in your browser — no Node.js, no setup. Sign up for a free account to start generating. The hosted version is always up to date with the latest models.
+
+---
+
 ## ⬇️ Download Desktop App
 
 One-click installers — no Node.js or terminal required.
@@ -318,6 +326,7 @@ Higgsfield AI is a proprietary AI video and image generation platform. **Open Hi
 | **Models** | Proprietary | 200+ open & commercial models |
 | **Multi-image input** | Limited | Up to 14 images per request |
 | **Lip sync** | No | 9 models, image & video modes |
+| **Hosted version** | Subscription | Free at [muapi.ai/open-higgsfield-ai](https://muapi.ai/open-higgsfield-ai) |
 | **Self-hosting** | No | Yes |
 | **Customizable** | No | Fully hackable |
 | **Data privacy** | Cloud-based | Your data stays local |
